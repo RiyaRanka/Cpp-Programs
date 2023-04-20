@@ -14,4 +14,4 @@ int main () {
         i++;
     }
     cout << n << " in binary is " << dec << " in decimal" << endl;
-}
+} 
