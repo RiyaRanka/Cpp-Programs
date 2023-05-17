@@ -1,33 +1,43 @@
-// Need clean code and some editing
+#include <algorithm>
 #include <iostream>
 using namespace std;
 
-// int binarySearch
+int FindUsingBinarySearch(int arr[], int size, int target) {
+    int left = 0;
+    int right = size - 1;
+    int mid = left + ((right-left)/2);
+
+    while (left <= right) {
+        if (arr[mid] == target) {
+            cout << "\n'" << target << "' element is found at index " << mid << endl;
+            exit(0); // Exit from the program and the loop will not go infinite
+        }
+        else if (target > arr[mid]) {
+            left = mid + 1;
+        }
+        // Condition of else: target < arr[mid]
+        else {
+            right = mid - 1;
+        }
+        mid = left + ((right-left)/2);
+    }
+    cout << "\n'" << target << "' element not found in an array! ";
+    return 0;
+}
 
 int main() {
-    int size;
+    int size, arr[100], target;
     cout << "Enter the size of an array : ";
     cin >> size;
-    int arr[100];
 
-    for ( int i=0; i<size; i++){
-        cout << " Enter the elements in an array : "; //taking array input
-        cin >> arr[i]; 
+    for (int i = 0; i < size; i++) {
+        cout << " Value of an array at " << i+1 << " : "; // taking array input
+        cin >> arr[i];
     }
-    // array sorting 
-    for(int i=0; i<size; i++){
-        for(int j=i+1; j<size; j++) { 
-            if(arr[i]>arr[j]){
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
-            }
-        }
-    }
-    cout<< "\n" <<"Array after sorting : ";
-   
-    for(int i=0; i<size; i++)
-      cout<<arr[i]<<" ";
-      
+    sort(arr, arr + size); // sorting the array
+    cout << "\n Enter the element to find in an array : ";
+    cin >> target;
+    FindUsingBinarySearch(arr, size, target); // left=0, right=size-1;
+
     return 0;
 }
