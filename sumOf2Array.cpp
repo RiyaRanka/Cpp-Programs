@@ -16,7 +16,6 @@ int main() {
         cout << "Enter value of 2nd array at index " << i << ": ";
         cin >> arr2[i];
     }
-    
     if(size1<size2){
         while(size1<size2){
             arr1[size1] =0;
