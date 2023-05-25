@@ -1,11 +1,72 @@
-// Make a project regarding Student Record System in which you can Read, Update or Modify & Delete or Edit the operation
-// Make a table by inputing the data from user about a student
-// Ask the user about this information first: 
-// Enter the Scholar no(unique), Full Name of Student, Branch, Current Year, Current Sem (Exceptional can display the table with unique branch differently)
-// Menu -> Add the info about student 1)Name, 2)Scholar no. , 3)Branch, 4)Current year, 5) Current sem, {6) Email id, 7) Phone no. 8) Father's Name} Edit anything all four, Search about student with all four (if possible otherwise only name or scholar no.), Update all four (the scholar no. will always be unique to every student), Delete the info about a student, Show or Print the table of Student Record
-// run in while loop until user exit from the program
-//  If c++ have a special feature like accessing c++ files to a single file in the main file so that the project doesn't looke heavy
-// DAY 1 Progress (15/5): Simple record system of student add input function & Stored the input information by user
-// DAY 2 Progress (16/5):
-// DAY 3 Progress (17/5): 
-// DAY 4 Progress (18/5): 
+//Need changes
+#include <iostream>
+// #include <iomanip>
+using namespace std;
+
+struct StudentInfo {
+  int scholarNumber;
+  char firstName[50];
+  char lastName[50];
+  char branch[50];
+  int phoneNumber;
+  char email[50];
+} s[50];
+int numberOfStudent = 0;
+void addStudentInfo(){
+    cout << "Enter Scholar Number of Student: ";
+    int scholar_no;
+    cin >> scholar_no;
+    for (int i = 0; i < numberOfStudent; i++) {
+        if (s[i].scholarNumber == scholar_no) {
+            cout << " Student with the given scholar number already exists in the database\n";
+            return;
+        }
+    }
+    cout << "Enter the First name of the student: ";
+    cin >> s->firstName;
+    cout << "Enter the Last name of the student: ";
+    cin >> s->lastName;
+    cout << "Enter the Branch of student: ";
+    cin >> s->branch;
+    cout << "Enter Phone Number of student: ";
+    cin >> s->phoneNumber;
+    cout << "Enter Email of student: ";
+    cin >> s->email;
+}
+
+// void printStudentInfo(){}
+
+// void updateStudentInfo(){}
+
+// void deleteStudentInfo(){}
+
+int main() {
+  int choice;
+//   Menu
+  while (true) { 
+    cout << "-----Welcome to Record System------\n 1. Add information about Student \n 2. Print the information about the student \n 3. Update information about student \n 4. Searchvinformation about student \n 5. Delete the information about the student \n 6. Exit from the program\n ";
+            cin >> choice;
+    switch (choice) {
+    case 1:
+      addStudentInfo();
+      break;
+    // case 2:
+    //   printStudentInfo();
+    //   break;
+    // case 3:
+    //   updateStudentInfo();
+    //   break;
+    // case 4:
+    //   searchStudentInfo();
+    //   break;
+    // case 5:
+    //   deleteStudentInfo();
+    //   break;
+    case 6:
+      exit(0);
+      break;
+    }
+  }
+    return 0;
+}
+ 
