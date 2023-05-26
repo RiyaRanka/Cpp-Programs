@@ -29,7 +29,7 @@ int main() {
             newSize = size - 1;
         }
     }
-    if(j == size && n====0)
+    if(j == size && n==0)
         cout<<"\nGiven value doesn't found in the Array.";
     else {
         cout<<"\n'" << deleteNum << "' gets deleted from the array \n" << "The New Array: ";
