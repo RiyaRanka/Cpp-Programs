@@ -26,17 +26,18 @@ int main() {
             }
             n++;
             i--;
-            newSize = size - 1;
+            // newSize = size - 1;
+            size--;
         }
     }
     if(j == size && n==0)
         cout<<"\nGiven value doesn't found in the Array.";
     else {
-        cout<<"\n'" << deleteNum << "' gets deleted from the array \n" << "The New Array: ";
-        for (j=0; j<newSize; j++) {
+        cout<<"\n'" << deleteNum << "' gets deleted from the array \n" << "The New Array: [";
+        for (j=0; j<size; j++) {
             cout << arr[j] << " ";
          }
     }
-    cout<<endl;
+    cout << "]" << endl;
     return 0;
 }
