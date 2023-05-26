@@ -26,11 +26,10 @@ int main() {
             }
             n++;
             i--;
-            // newSize = size - 1;
             size--;
         }
     }
-    if(j == size && n==0)
+    if(j == size && n==0) // if same elements value are in array then it would be deleted all irrespective of position in the array
         cout<<"\nGiven value doesn't found in the Array.";
     else {
         cout<<"\n'" << deleteNum << "' gets deleted from the array \n" << "The New Array: [";
