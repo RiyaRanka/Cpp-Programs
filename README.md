@@ -4,6 +4,7 @@
 |------	|----------------------------------------------------------------------------------------------	|------------------ |
 | 1     | WPM to reverse a given string.                                                                | Done              |
 | 2     | WPM to compare two arrays using the function.                                                 | Done              |
+| 3     | WPM to create an array and find the position of 'target' key entered by user.                 | Done              |
 | 7    	| WPM to take two numbers as input from the user and print their sum.              	            |                   |
 | 2    	| WPM to take a number as input from the user and print whether it is even or odd. 	            |           	      |
 | 3    	| WPM to find the factorial of a number.                                           	            |           	      |
