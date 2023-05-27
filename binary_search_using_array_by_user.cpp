@@ -7,7 +7,6 @@ int FindUsingBinarySearch(int arr[], int size, int target) {
     int left = 0;
     int right = size - 1;
     int mid = left + ((right-left)/2);
-
     while (left <= right) {
         if (arr[mid] == target) {
             cout << "\n'" << target << "' element is found at index " << mid << endl;
@@ -30,7 +29,6 @@ int main() {
     int size, arr[100], target;
     cout << "Enter the size of an array : ";
     cin >> size;
-
     for (int i = 0; i < size; i++) {
         cout << " Value of an array at " << i+1 << " : ";
         cin >> arr[i];
@@ -39,6 +37,5 @@ int main() {
     cout << "\n Enter the element to find in an array : ";
     cin >> target;
     FindUsingBinarySearch(arr, size, target);
-
     return 0;
 }
