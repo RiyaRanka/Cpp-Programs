@@ -8,7 +8,7 @@
 | 4     |Write a program to calculate the sum of the first n natural numbers.                           |                   |
 | 5     |Write a program to print the Fibonacci series up to a given number.                            |                   |
 | 6     |Write a program to convert a binary number to decimal.                                         |                   |
-| 7     |Write a program to reverse a given string.                                                     |                   |
+| 7     |Write a program to reverse a given string.                                                     |     Done          |
 | 8     |Write a C program to compare two strings without using the strcmp() function.                  |                   |
 | 9     |Write a C program to remove all occurrences of a given character from a string.                |                   |
 | 10    |Write a C program to find the first non-repeating character in a given string.                 |                   |
