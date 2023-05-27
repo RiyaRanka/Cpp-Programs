@@ -1,3 +1,4 @@
+// Problem: Create an integer array and take input by user and find the position of 'target' key entered by user.
 #include <algorithm>
 #include <iostream>
 using namespace std;
@@ -10,7 +11,7 @@ int FindUsingBinarySearch(int arr[], int size, int target) {
     while (left <= right) {
         if (arr[mid] == target) {
             cout << "\n'" << target << "' element is found at index " << mid << endl;
-            exit(0); // Exit from the program and the loop will not go infinite
+            exit(0);
         }
         else if (target > arr[mid]) {
             left = mid + 1;
@@ -31,13 +32,13 @@ int main() {
     cin >> size;
 
     for (int i = 0; i < size; i++) {
-        cout << " Value of an array at " << i+1 << " : "; // taking array input
+        cout << " Value of an array at " << i+1 << " : ";
         cin >> arr[i];
     }
-    sort(arr, arr + size); // sorting the array
+    sort(arr, arr + size);
     cout << "\n Enter the element to find in an array : ";
     cin >> target;
-    FindUsingBinarySearch(arr, size, target); // left=0, right=size-1;
+    FindUsingBinarySearch(arr, size, target);
 
     return 0;
 }
