@@ -20,3 +20,4 @@
 | 14    |Write a program to remove duplicate elements from an array.                                            |                   |
 | 15    |Write a program to sort an array in ascending order.                                                   |                   |
 | 16    |Write a program to implement a simple calculator.                                                      |                   |
+
