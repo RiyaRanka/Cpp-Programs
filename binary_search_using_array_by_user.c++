@@ -1,4 +1,4 @@
-// Problem: Create an integer array and take input by user and find the position of 'target' key entered by user.
+// Problem: Create an integer array and take input by user and using binary search find the position of 'target' key entered by user.
 #include <algorithm>
 #include <iostream>
 using namespace std;
