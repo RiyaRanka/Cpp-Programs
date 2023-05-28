@@ -1,3 +1,4 @@
+// Problem: Delete an element in the array given by user, if the element is repetitive then delete all the duplicates of the element in the array.
 #include <iostream>
 using namespace std;
 int main() {
