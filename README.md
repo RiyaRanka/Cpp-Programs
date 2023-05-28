@@ -5,7 +5,7 @@
 | [1](string_reverse.cpp)                   | WPM to reverse a given string.                                                                    | Done        |
 | [2](array_compare.cpp)                    | WPM to compare two arrays using the function.                                                     | Done        |
 | [3](binary_search_using_array_by_user.cpp)| WPM to create an array and using binary search find the position of 'target' key entered by user. | Done        |
-| 4     | WPM take a binary number input from user and convert a binary number to decimal.| Done              |
+| [4](binary_to_decimal.cpp)                | WPM take a binary number input from user and convert a binary number to decimal.                  | Done        |
 | 5     |Write a program to implement a simple calculator.                      | Done              |
 | 6     | WPM print the rectangle pattern from the array given by user. | Done              |
 | 1    	| WPM to take two numbers as input from the user and print their sum.              	                    |                   |
