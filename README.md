@@ -3,7 +3,7 @@
 | No.  	| Questions                                                                                           	| Done/Not Done     |
 |------	|------------------------------------------------------------------------------------------------------	|------------------ |
 | 1     | WPM to reverse a given string.                                                                        | Done              |
-| 2[array_compare.cpp]     | WPM to compare two arrays using the function.                                                         | Done              |
+| [2] (array_compare.cpp)     | WPM to compare two arrays using the function.                                                         | Done              |
 | 3     | WPM to create an array and using binary search find the position of 'target' key entered by user.     | Done              |
 | 4     | WPM take a binary number input from user and convert a binary number to decimal.                      | Done              |
 | 5     |Write a program to implement a simple calculator.                                                      | Done              |
