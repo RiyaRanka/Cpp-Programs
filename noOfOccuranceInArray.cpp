@@ -1,4 +1,4 @@
-// Number of occurance of elements in an array by user
+// Problem: Find the number of occurance of elements in an array by user 
 #include <iostream>
 using namespace std;
 
