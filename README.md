@@ -15,8 +15,7 @@
 | [11](fibbonnaci.c++)                      | Print the Fibonacci series up to a given number.                                                  | Done        |
 | [12](noOfOccuranceInArray.cpp)            | Find the number of occurance of elements in an array by user.                                     | Done        |
 | [13](evenOddArray.cpp)                    | Find odd and even numbers in an array given by user.                                              | Done        |
-| [14](pointer.c++)
-
+| [14](pointer.c++)                         |                                                                                                   |             |
 | 1    	| WPM to take two numbers as input from the user and print their sum.              	                    |                   |
 | 2    	| WPM to take a number as input from the user and print whether it is even or odd. 	                    |           	      |
 | 3    	| WPM to find the factorial of a number.                                           	                    |           	      |
