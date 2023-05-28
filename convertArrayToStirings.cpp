@@ -1,3 +1,4 @@
+// Problem: Convert given array to string.
 #include <iostream>
 using namespace std;
 
