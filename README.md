@@ -6,6 +6,7 @@
 | 2     | WPM to compare two arrays using the function.                                                         | Done              |
 | 3     | WPM to create an array and using binary search find the position of 'target' key entered by user.     | Done              |
 | 4     | WPM take a binary number input from user and convert a binary number to decimal.                      | Done              |
+| 5     |Write a program to implement a simple calculator.                                                      | Done              |
 | 7    	| WPM to take two numbers as input from the user and print their sum.              	                    |                   |
 | 2    	| WPM to take a number as input from the user and print whether it is even or odd. 	                    |           	      |
 | 3    	| WPM to find the factorial of a number.                                           	                    |           	      |
@@ -19,5 +20,5 @@
 | 13    |Write a program to reverse the elements of an array.                                                   |                   |
 | 14    |Write a program to remove duplicate elements from an array.                                            |                   |
 | 15    |Write a program to sort an array in ascending order.                                                   |                   |
-| 16    |Write a program to implement a simple calculator.                                                      |                   |
+
 
