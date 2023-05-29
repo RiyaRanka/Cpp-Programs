@@ -1,3 +1,4 @@
+// Problem: Take two numbers as input from the user and print their sum.
 #include <iostream>
 using namespace std;
 int main() {
