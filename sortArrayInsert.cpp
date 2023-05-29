@@ -1,4 +1,4 @@
-//Need more code changes 
+// Problem: Insert element in sorted array and print the final array and array is given by user.
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -10,9 +10,7 @@ int main() {
         cout << "Enter value of array at " << i << " index : ";
         cin >> arr[i];
     }
-    cout << endl;
-    
-    cout << "Your array is ";
+    cout << "\nYour array is ";
     for (i=0; i<size; i++) {
         cout << arr[i] << " ";
     }
@@ -23,20 +21,26 @@ int main() {
         cout << arr[i] << " ";
     }
     cout << endl;
-
     //Insertion of element
-    int insertNum;
+    int insertNum, j;
     cout << "Enter the element you want to enter in the array: ";
     cin >> insertNum;
     
-    int j;
     for (i=0; i<size; i++) {
-        if (insertNum >= arr[i]) {
+        if (insertNum <= arr[i]) {
             for (j=size-1; j>=i; j--) {
                 arr[j+1] = arr[j];
             }
             arr[i] = insertNum;
+            break;
         }
     }
+    
+    cout << "New array after insertion: [ ";
+    for (i=0; i<size+1; i++) {
+        cout << arr[i] << ", ";
+    }
+    cout << "\b\b]" << endl;
+    
     return 0;
 }
