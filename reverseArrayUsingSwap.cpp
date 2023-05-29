@@ -1,4 +1,4 @@
-// Problem: Printing reverse array and array is given by user.
+// Problem: Printing reverse array using swap and array is given by user.
 #include <iostream>
 using namespace std;
 
