@@ -1,3 +1,4 @@
+// Problem: Printing reverse array and array is given by user.
 #include <iostream>
 using namespace std;
 
@@ -9,6 +10,7 @@ void reverseArray (int arr[], int size) {
         end--;
         }
     }
+
 void printReverse(int arr[], int size) {
     cout << "Reverse array is ";
     for (int i=0; i<size; i++) {
@@ -25,9 +27,7 @@ int main() {
         cout << "Value of array at index " << i << " is ";
         cin >> arr[i];
     }
-    cout << endl;
-
-    cout << "Your array is ";
+    cout << "\nYour array is ";
     for (i =0; i<size; i++) {
         cout << arr[i] << " ";
     }
