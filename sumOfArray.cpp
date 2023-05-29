@@ -1,6 +1,6 @@
+// Problem: Print sum of values of array.
 #include <iostream>
 using namespace std;
-
 int main() {
     int size, arr[100], i;
     cout << "Enter size of an array: ";
@@ -13,6 +13,6 @@ int main() {
     for (i=0; i<size; i++) {
         sum += arr[i];
     }
-    cout <<"Sum of array: " << ++sum<< endl;
+    cout <<"Sum of values of array: " << sum<< endl;
     return 0;
 }
