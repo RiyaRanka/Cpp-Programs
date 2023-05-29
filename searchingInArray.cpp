@@ -1,16 +1,16 @@
+// Problem: Find the position of an element given by user in an array. If the element is repeated then give all the position in which the element is repeated.
 #include <iostream>
 using namespace std;
 int main() {
     int size, arr[100], i;
     cout << "Enter size of array: ";
     cin >> size;
+    
     for (i=0; i<size; i++) {
         cout << "Enter value of array at " << i << " index : ";
         cin >> arr[i];
     }
-    cout << endl;
-    
-    cout << "Your array is ";
+    cout << "\nYour array is ";
     for (i=0; i<size; i++) {
         cout << arr[i] << " ";
     }
@@ -22,12 +22,10 @@ int main() {
     cin >> searchNum;
 
     for (i=0; i<size; i++) {
-            if (searchNum == arr[i]){
-                cout << searchNum << " is at index " << i << endl; 
-                n++;
-
-            }
-    
+         if (searchNum == arr[i]){
+             cout << searchNum << " is at index " << i << endl; 
+             n++;
+         }
     }
     if (i == size && n==0) {
          cout << "The value you entered is not in the array." << endl;
