@@ -2,32 +2,28 @@
 
 | No.  	| Questions                                                                                    	                                        |Done/Not Done|
 |-----------------------------------------	|-------------------------------------------------------------------------------------------------- |------------ |
-| [1](string_reverse.cpp)                   | WPM to reverse a given string.                                                                    | Done        |
-| [2](array_compare.cpp)                    | WPM to compare two arrays using the function.                                                     | Done        |
-| [3](binary_search_using_array_by_user.cpp)| WPM to create an array and using binary search find the position of 'target' key entered by user. | Done        |
-| [4](binary_to_decimal.cpp)                | WPM take a binary number input from user and convert a binary number to decimal.                  | Done        |
+| [1](string_reverse.cpp)                   | Reverse a given string.                                                                           | Done        |
+| [2](array_compare.cpp)                    | Compare two arrays using the function.                                                            | Done        |
+| [3](binary_search_using_array_by_user.cpp)| Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
+| [4](binary_to_decimal.cpp)                | Convert a binary number to decimal given by user.                                                 | Done        |
 | [5](calculator.c++)                       | Write a program to implement a simple calculator.                                                 | Done        |
-| [6](rectanglePatternArray.cpp)            | WPM print the rectangle pattern from the array given by user.                                     | Done        |
+| [6](rectanglePatternArray.cpp)            | Print the rectangle pattern from the array given by user.                                         | Done        |
 | [7](convertArrayToStirings.cpp)           | Convert given array to string.                                                                    | Done        |
 | [8](deleteElementsInArray.cpp)            | Delete the specified element in the array.                                                        | Done        |
-| [9](even-oddNum.cpp)                  	  | Take a number as input from the user and print whether it is even or odd. 	                      | Done        |
-| [10](factorial_of_a_number.cpp)        	  | Find the factorial of a given number by user.                                                     | Done        |
+| [9](even-oddNum.cpp)                  	| Take a number as input from the user and print whether it is even or odd. 	                    | Done        |
+| [10](factorial_of_a_number.cpp)        	| Find the factorial of a given number by user.                                                     | Done        |
 | [11](fibbonnaci.c++)                      | Print the Fibonacci series up to a given number.                                                  | Done        |
 | [12](noOfOccuranceInArray.cpp)            | Find the number of occurance of elements in an array by user.                                     | Done        |
 | [13](evenOddArray.cpp)                    | Find odd and even numbers in an array given by user.                                              | Done        |
-| [14](pointer.c++)                         |                                                                                                   |             |
-| 1    	| WPM to take two numbers as input from the user and print their sum.              	                    |                   |
-| 2    	| WPM to take a number as input from the user and print whether it is even or odd. 	                    |           	      |
-| 3    	| WPM to find the factorial of a number.                                           	                    |           	      |
-| 4     | WPM to calculate the sum of the first n natural numbers.                                              |                   |
-| 5     | WPM to print the Fibonacci series up to a given number.                                               |                   |
-| 8     |Write a C program to compare two strings without using the strcmp() function.                          |                   |
-| 9     |Write a C program to remove all occurrences of a given character from a string.                        |                   |
-| 10    |Write a C program to find the first non-repeating character in a given string.                         |                   |
-| 11    |Write a C program to convert a given string to uppercase.                                              |                   |
-| 12    |Write a program to find the second largest element in an integer array.                                |                   |
-| 13    |Write a program to reverse the elements of an array.                                                   |                   |
-| 14    |Write a program to remove duplicate elements from an array.                                            |                   |
-| 15    |Write a program to sort an array in ascending order.                                                   |                   |
-
-
+| [14](printingArray.cpp)                   | Printing user given array.                                                                        | Done        |
+| [15](reverseArray.cpp)                    | Printing reverse array using swap and array is given by user.                                     | Done        |
+| [16](reverseArrayWithoutSwap.cpp)         | Printing reverse array without using swap and array is given by user.                             | Done        |
+| [17](searchingInArray.cpp)                | Find the position of an element given by user in an array.                                        | Done        |
+| [18](sortArrayInsert.cpp)                 | Insert element in sorted array and print the final array and array is given by user.              | Done        |
+| [19](uppercaseLowercase.cpp)              | Convert a given string to uppercase and lowercase.                                                | Done        |
+| [20](sorting1and0.cpp)                    | Print sorting 0 & 1 from array.                                                                   | Done        |
+| [21](sorting_array.cpp)                   | Sorting and unsroted array by user.                                                               | Done        |
+| [22](sumOf2Array.cpp)                     | Sum of two array by parallel indexing, both arrays ar inputed by user.                            | Done        |
+| [23](sumOfArray.cpp)                      | Print sum of values of array.                                                                     | Done        |
+| [24](sum_by_user_input.cpp)   	        | Take two numbers as input from the user and print their sum.              	                    | Done        |
+| [25](sum_of_n_numbers.cpp)                | Calculate the sum of the first n natural numbers.                                                 | Done        |
