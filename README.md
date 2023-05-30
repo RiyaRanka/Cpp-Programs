@@ -6,13 +6,13 @@
 | [2](array_compare.cpp)                    | Compare two arrays using the function.                                                            | Done        |
 | [3](binary_search_using_array_by_user.cpp)| Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
 | [4](binary_to_decimal.cpp)                | Convert a binary number to decimal given by user.                                                 | Done        |
-| [5](calculator.c++)                       | Write a program to implement a simple calculator.                                                 | Done        |
+| [5](calculator.cpp)                       | Write a program to implement a simple calculator.                                                 | Done        |
 | [6](rectanglePatternArray.cpp)            | Print the rectangle pattern from the array given by user.                                         | Done        |
 | [7](convertArrayToStirings.cpp)           | Convert given array to string.                                                                    | Done        |
 | [8](deleteElementsInArray.cpp)            | Delete the specified element in the array.                                                        | Done        |
 | [9](even-oddNum.cpp)                    	| Take a number as input from the user and print whether it is even or odd. 	                      | Done        |
 | [10](factorial_of_a_number.cpp)         	| Find the factorial of a given number by user.                                                     | Done        |
-| [11](fibbonnaci.c++)                      | Print the Fibonacci series up to a given number.                                                  | Done        |
+| [11](fibbonnaci.cpp)                      | Print the Fibonacci series up to a given number.                                                  | Done        |
 | [12](noOfOccuranceInArray.cpp)            | Find the number of occurance of elements in an array by user.                                     | Done        |
 | [13](evenOddArray.cpp)                    | Find odd and even numbers in an array given by user.                                              | Done        |
 | [14](printingArray.cpp)                   | Printing user given array.                                                                        | Done        |
