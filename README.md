@@ -27,4 +27,4 @@
 | [23](sumOfArray.cpp)                      | Print sum of values of array.                                                                     | Done        |
 | [24](sum_by_user_input.cpp)   	          | Take two numbers as input from the user and print their sum.              	                      | Done        |
 | [25](sum_of_n_numbers.cpp)                | Calculate the sum of the first n natural numbers.                                                 | Done        |
-| 
+| Find minimum and maximum value in an array given by user.
