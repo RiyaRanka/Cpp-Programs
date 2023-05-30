@@ -10,8 +10,8 @@
 | [6](rectanglePatternArray.cpp)            | Print the rectangle pattern from the array given by user.                                         | Done        |
 | [7](convertArrayToStirings.cpp)           | Convert given array to string.                                                                    | Done        |
 | [8](deleteElementsInArray.cpp)            | Delete the specified element in the array.                                                        | Done        |
-| [9](even-oddNum.cpp)                  	| Take a number as input from the user and print whether it is even or odd. 	                    | Done        |
-| [10](factorial_of_a_number.cpp)        	| Find the factorial of a given number by user.                                                     | Done        |
+| [9](even-oddNum.cpp)                    	| Take a number as input from the user and print whether it is even or odd. 	                      | Done        |
+| [10](factorial_of_a_number.cpp)         	| Find the factorial of a given number by user.                                                     | Done        |
 | [11](fibbonnaci.c++)                      | Print the Fibonacci series up to a given number.                                                  | Done        |
 | [12](noOfOccuranceInArray.cpp)            | Find the number of occurance of elements in an array by user.                                     | Done        |
 | [13](evenOddArray.cpp)                    | Find odd and even numbers in an array given by user.                                              | Done        |
@@ -25,5 +25,6 @@
 | [21](sorting_array.cpp)                   | Sorting and unsroted array by user.                                                               | Done        |
 | [22](sumOf2Array.cpp)                     | Sum of two array by parallel indexing, both arrays ar inputed by user.                            | Done        |
 | [23](sumOfArray.cpp)                      | Print sum of values of array.                                                                     | Done        |
-| [24](sum_by_user_input.cpp)   	        | Take two numbers as input from the user and print their sum.              	                    | Done        |
+| [24](sum_by_user_input.cpp)   	          | Take two numbers as input from the user and print their sum.              	                      | Done        |
 | [25](sum_of_n_numbers.cpp)                | Calculate the sum of the first n natural numbers.                                                 | Done        |
+| 
