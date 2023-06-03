@@ -2,7 +2,7 @@
 
 | No.  	| Questions                                                                                    	                                         |Done/Not Done|
 | -----| --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [1](string_reverse.cpp)                    | Reverse a given string.                                                                           | Done        |
+| [1](string_reverse_by_user.cpp)            | Reverse a given string and string is given by user.                                               | Done        |
 | [2](array_compare.cpp)                     | Compare two arrays using the function.                                                            | Done        |
 | [3](binary_search_using_array_by_user.cpp) | Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
 | [4](binary_to_decimal.cpp)                 | Convert a binary number to decimal given by user.                                                 | Done        |
