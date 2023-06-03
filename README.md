@@ -1,10 +1,10 @@
 # C/C++ Programs 
 
 | No.  	| Questions                                                                                    	                                        |Done/Not Done|
-|:-----:|:---------------------------------:|:-------------------------------------------------------------------------------------------------:|:------------:|
+|:-----|:--------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|
 | [1](string_reverse.cpp)                   | Reverse a given string.                                                                           | Done        |
 | [2](array_compare.cpp)                    | Compare two arrays using the function.                                                            | Done        |
-| [3](binary_search_using_array_by_user.cpp)| Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
+| [3](binary_search_using_array_by_user.cpp) | Create an array and using binary search find the position of 'target' key entered by user.       | Done        |
 | [4](binary_to_decimal.cpp)                | Convert a binary number to decimal given by user.                                                 | Done        |
 | [5](calculator.cpp)                       | Write a program to implement a simple calculator.                                                 | Done        |
 | [6](rectanglePatternArray.cpp)            | Print the rectangle pattern from the array given by user.                                         | Done        |
@@ -29,3 +29,11 @@
 | [25](sum_of_n_numbers.cpp)                | Calculate the sum of the first n natural numbers.                                                 | Done        |
 | [26](min_max_num_in_array.cpp)            | Find minimum and maximum value in an array given by user.                                         | Done        |
 | [27](searchingElementPositionBS.c)        | Searching element in array using binary search by user.                                           | Done        |
+
+
+# Leetcode Problems
+
+|  Problem  |  Solutions  |
+|:----------|:-----------:|
+|  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_05/Lecture_Codes/191.cpp)  |
+|  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_05/Lecture_Codes/1281.cpp)  |
