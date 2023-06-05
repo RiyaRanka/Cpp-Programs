@@ -29,3 +29,4 @@
 | [25](sum_of_n_numbers.cpp)                 | Calculate the sum of the first n natural numbers.                                                 | Done        |
 | [26](min_max_num_in_array.cpp)             | Find minimum and maximum value in an array given by user.                                         | Done        |
 | [27](searchingElementPositionBS.c)         | Searching element in array using binary search by user.                                           | Done        |
+| [28](convertDegrees.cpp)                   | Convert a degree into Celsius, Fahrenheit and Kalvin.                                             | Done        |
