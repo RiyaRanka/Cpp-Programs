@@ -30,3 +30,4 @@
 | [26](min_max_num_in_array.cpp)             | Find minimum and maximum value in an array given by user.                                         | Done        |
 | [27](searchingElementPosition.cpp)         | Searching element in array using binary search by user.                                           | Done        |
 | [28](convertDegrees.cpp)                   | Convert a degree into Celsius, Fahrenheit and Kalvin.                                             | Done        |
+| [29](kadane_algoritham.cpp)                | Find the sum of subarray (or empty subarray) having maximum sum among all subarrays.              | Done        |
