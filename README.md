@@ -1,7 +1,7 @@
 # C/C++ Programs 
 
 | No.  	| Questions                                                                                    	                                         |Done/Not Done|
-| ------| --------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| ------| -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [1](string_reverse_by_user.cpp)            | Reverse a given string and string is given by user.                                               | Done        |
 | [2](array_compare.cpp)                     | Compare two arrays using the function.                                                            | Done        |
 | [3](binary_search_using_array_by_user.cpp) | Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
@@ -31,3 +31,4 @@
 | [27](searchingElementPosition.cpp)         | Searching element in array using binary search by user.                                           | Done        |
 | [28](convertDegrees.cpp)                   | Convert a degree into Celsius, Fahrenheit and Kalvin.                                             | Done        |
 | [29](kadane_algoritham.cpp)                | Find the sum of subarray (or empty subarray) having maximum sum among all subarrays.              | Done        |
+| [30](square._without_using_operators.cpp)  | Find Square of number without using multiplication(*), division(/)& power function (pow()).       | Done        |
