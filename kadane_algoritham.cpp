@@ -1,18 +1,19 @@
 // Problem: Given an array or 'arr' with size 'size'. Find the sum of subarray (including empty subarray) having maximum sum among all subarrays.
 #include <iostream>
 using namespace std;
-long long maxSubarraySum(int arr[], int size) {
-    long long max_sum=0,maxelement=0;
-    for(int i=0;i<size;i++) {
-        maxelement=maxelement+arr[i];
-        if(max_sum<maxelement) {
-            max_sum=maxelement;
+long long maxSubarraySum (int arr[], int size) {
+    long long maxSum = 0, maxElement = 0;
+    for (int i = 0; i < size; i++) {
+        maxElement = maxElement + arr[i];
+        if (maxSum < maxElement) {
+            maxSum = maxElement;
         }
-        else if(maxelement<0) {
-            maxelement=0;
+        else if (maxElement < 0) {
+            maxElement = 0;
         }
     }
-    cout << "\n Using Kadane's Algoritham maximum sum of subarray is: " << max_sum;
+    cout << "\nUsing Kadane's Algoritham maximum sum of subarray is: " << maxSum;
+    return 0;
 }
 
 int main() {
