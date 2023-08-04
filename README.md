@@ -22,7 +22,7 @@
 | [18](sortArrayInsert.cpp)                  | Insert element in sorted array and print the final array and array is given by user.              | Done        |
 | [19](uppercaseLowercase.cpp)               | Convert a given string to uppercase and lowercase.                                                | Done        |
 | [20](sorting1and0.cpp)                     | Print sorting 0 & 1 from array.                                                                   | Done        |
-| [21](sorting_array.cpp)                    | Sorting and unsroted array by user.                                                               | Done        |
+| [21](sorting_array.cpp)                    | Sorting an unsroted array by user.                                                               | Done        |
 | [22](sumOf2Array.cpp)                      | Sum of two array by parallel indexing, both arrays ar inputed by user.                            | Done        |
 | [23](sumOfArray.cpp)                       | Print sum of values of array.                                                                     | Done        |
 | [24](sum_by_user_input.cpp)   	           | Take two numbers as input from the user and print their sum.              	                       | Done        |
