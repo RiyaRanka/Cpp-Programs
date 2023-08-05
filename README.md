@@ -1,7 +1,7 @@
 # C/C++ Programs 
 
 | No.  	| Questions                                                                                    	                                         |Done/Not Done|
-| ------| -------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ------| -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [1](string_reverse_by_user.cpp)            | Reverse a given string and string is given by user.                                               | Done        |
 | [2](array_compare.cpp)                     | Compare two arrays using the function.                                                            | Done        |
 | [3](binary_search_using_array_by_user.cpp) | Create an array and using binary search find the position of 'target' key entered by user.        | Done        |
@@ -22,7 +22,7 @@
 | [18](sortArrayInsert.cpp)                  | Insert element in sorted array and print the final array and array is given by user.              | Done        |
 | [19](uppercaseLowercase.cpp)               | Convert a given string to uppercase and lowercase.                                                | Done        |
 | [20](sorting1and0.cpp)                     | Print sorting 0 & 1 from array.                                                                   | Done        |
-| [21](sorting_array.cpp)                    | Sorting an unsroted array by user.                                                               | Done        |
+| [21](sorting_array.cpp)                    | Sorting an unsroted array by user.                                                                | Done        |
 | [22](sumOf2Array.cpp)                      | Sum of two array by parallel indexing, both arrays ar inputed by user.                            | Done        |
 | [23](sumOfArray.cpp)                       | Print sum of values of array.                                                                     | Done        |
 | [24](sum_by_user_input.cpp)   	           | Take two numbers as input from the user and print their sum.              	                       | Done        |
@@ -33,4 +33,5 @@
 | [29](kadane_algoritham.cpp)                | Find the sum of subarray (or empty subarray) having maximum sum among all subarrays.              | Done        |
 | [30](square._without_using_operators.cpp)  | Find Square of number without using multiplication(*), division(/)& power function (pow()).       | Done        |
 | [31](is_array_palindrome.cpp)              | Check if an array is palinodrome or not.                                                          | Done        |
+| [32](palindrome-checker.cpp)               | Check if a number is palindrome or not.                                                           | Done        |
 
