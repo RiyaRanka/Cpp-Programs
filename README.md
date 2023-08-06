@@ -34,4 +34,5 @@
 | [30](square._without_using_operators.cpp)  | Find Square of number without using multiplication(*), division(/)& power function (pow()).       | Done        |
 | [31](is_array_palindrome.cpp)              | Check if an array is palinodrome or not.                                                          | Done        |
 | [32](palindrome-checker.cpp)               | Check if a number is palindrome or not.                                                           | Done        |
+| [33](vector-sort.cpp)                      | Enter values of vector by user & sort the vector in ascending order.                              | Done        |
 
