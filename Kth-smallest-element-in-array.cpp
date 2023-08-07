@@ -1,4 +1,4 @@
-// Problem: Given an array arr[] and an integer K, the task is to find the Kth smallest element in the given array.
+// Problem: Given an array arr[] and an integer K, the task is to find the Kth smallest element in the given array. 
 #include <iostream>
 #include <algorithm>
 using namespace std;
