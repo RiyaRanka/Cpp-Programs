@@ -1,6 +1,6 @@
 # C/C++ Programs 
 
-| No.  	| Questions                                                                                    	                                         |Done/Not Done|
+| No.  	| Questions                                                                                    	                                          |Done/Not Done|
 | ------| --------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [1](string_reverse_by_user.cpp)            | Reverse a given string and string is given by user.                                                | Done        |
 | [2](array_compare.cpp)                     | Compare two arrays using the function.                                                             | Done        |
@@ -37,4 +37,5 @@
 | [33](vector-sort.cpp)                      | Enter values of vector by user & sort the vector in ascending order.                               | Done        |
 | [34](Kth-smallest-element-in-array.cpp)    | In an arra an integer K is given, the task is to find the Kth smallest element in the given array. | Done        |
 | [35](simple-pyramid.cpp)                   | Print Simple Pyramid Pattern question.                                                             | Done        |
+
 
