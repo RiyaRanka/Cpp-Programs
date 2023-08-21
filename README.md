@@ -38,5 +38,7 @@
 | [34](Kth-smallest-element-in-array.cpp)    | In an arra an integer K is given, the task is to find the Kth smallest element in the given array. | Done        |
 | [35](simple-pyramid.cpp)                   | Print Simple Pyramid Pattern question.                                                             | Done        |
 | [36](recursion_factorial.cpp)              | Find factorial using recursion.                                                                    | Done        |
-| 
+| [37](power_of_2_using_recursion.cpp)       | Find power of 2 using recursion.                                                                   | Done        |
+
+
 
