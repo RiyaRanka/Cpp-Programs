@@ -1,4 +1,4 @@
-// Problem: Fibonacci series with recurssion.11
+// Problem: Fibonacci series with recurssion.
 #include <iostream>
 using namespace std;
 
