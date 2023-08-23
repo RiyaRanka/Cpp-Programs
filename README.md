@@ -40,7 +40,7 @@
 | [36](recursion_factorial.cpp)              | Find factorial using recursion.                                                                    | Done        |
 | [37](power_of_2_using_recursion.cpp)       | Find power of 2 using recursion.                                                                   | Done        |
 | [38](fibonacci-series-with-recurssion.cpp) | Find the Fibonacci series with recurssion.                                                         | Done        |
-| [39](fib-series-without-recurssion.cpp)    | Find the Fibonacci series without using recurssion and only with for loop.                         | Done        |
+| [39](fib-series-without-recurssion.cpp)    | Find the Fibonacci series without using recurssion.                                                | Done        |
 
 
 
